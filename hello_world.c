@@ -2,6 +2,6 @@
 
 
 int main (){
-	printf("Hello World ca va bg ? \n");
+	printf("Hello World ca va ? \n");
 	return 0;
 }
